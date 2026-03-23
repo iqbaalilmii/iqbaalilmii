@@ -1,4 +1,4 @@
-Hi, I'm Iqbal — a student passionate about Cyber Security, with a growing focus on Digital Forensics.
+Hi, I'm Iqbal, a student passionate about Cyber Security, with a growing focus on Digital Forensics.
 I spend most of my time solving CTF challenges and writing detailed writeups to document my learning process.
 Currently exploring memory forensics, disk analysis, and incident investigation.
 
