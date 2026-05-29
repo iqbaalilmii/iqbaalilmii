@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iqbaalilmiibusiness@gmail.com**
 
-- ⚡ Fun fact **Proud dog lover. Honestly, if a dog doesn’t like you, I probably won't either.**
+- ⚡ Fun fact **I'm a proud dog lover. Honestly, if a dog doesn’t like you, I probably won't either.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
