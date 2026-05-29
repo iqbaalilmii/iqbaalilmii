@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@iqbaal.ilmii](https://medium.com/@iqbaal.ilmii)
 
-- 💬 Ask me about **Capture the Flags, Digital Forensics, and Volatility**
+- 💬 Ask me about **Capture the Flags, Digital Forensics, and Volatility Framework**
 
 - 📫 How to reach me **iqbaalilmiibusiness@gmail.com**
 
