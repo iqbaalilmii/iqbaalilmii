@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [volatility3 plugins](https://github.com/iqbaalilmii/vol3-plugins)
 
-- 🌱 I’m currently learning **Digital Forensics espesially Volatilty Memory Forensics Framework**
+- 🌱 I’m currently learning **Digital Forensics espesially Volatility Memory Forensics Framework**
 
 - 📝 I regularly write articles on [https://medium.com/@iqbaal.ilmii](https://medium.com/@iqbaal.ilmii)
 
