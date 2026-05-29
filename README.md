@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iqbal Ilmi</h1>
 <h3 align="center">A passionate Cybersecurity enthusiast from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbaalilmii&label=Profile%20views&color=0e75b6&style=flat" alt="iqbaalilmii" /> </p>
-
 - 🔭 I’m currently working on [volatility3 plugins](https://github.com/iqbaalilmii/vol3-plugins)
 
 - 🌱 I’m currently learning **Digital Forensics espesially Volatilty Memory Forensics Framework**
