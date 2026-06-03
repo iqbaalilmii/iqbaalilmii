@@ -6,7 +6,7 @@
 
 🔬 Currently, I'm exploring the **Volatility Framework**, developing custom plugins, and deepening my understanding of operating systems, memory analysis, and incident investigation.
 
-🧠 I learn best through hands-on experience. Whether it's building projects, participating in CTFs, researching new topics, or experimenting in labs, I believe practical learning is the fastest path to growth.
+🧠 I learn best through hands-on experience by participating in CTFs.
 
 ---
 
