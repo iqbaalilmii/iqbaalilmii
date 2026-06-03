@@ -1,27 +1,68 @@
-<h1 align="center">Hi 👋, I'm Iqbal Ilmi</h1>
-<h3 align="center">A passionate Cybersecurity enthusiast from Indonesia</h3>
+# 👋 Hello there! I'm Iqbal Ilmi
 
-- 🔭 I’m currently working on [volatility3 plugins](https://github.com/iqbaalilmii/vol3-plugins)
+🎓 I'm a **Computer and Network Engineering (TKJ)** student from **Indonesia** with a strong interest in the world of technology and cybersecurity.
 
-- 🌱 I’m currently learning **Digital Forensics espesially Volatility Memory Forensics Framework**
+💻 I'm passionate about **Cybersecurity**, especially **Digital Forensics**, **Memory Forensics**, and **Capture The Flag (CTF)** challenges. I enjoy understanding how systems work, investigating digital evidence, and solving technical problems.
 
-- 📝 I regularly write articles on [https://medium.com/@iqbaal.ilmii](https://medium.com/@iqbaal.ilmii)
+🔬 Currently, I'm exploring the **Volatility Framework**, developing custom plugins, and deepening my understanding of operating systems, memory analysis, and incident investigation.
 
-- 💬 Ask me about **Capture the Flags, Digital Forensics, and Volatility Framework**
+🧠 I learn best through hands-on experience. Whether it's building projects, participating in CTFs, researching new topics, or experimenting in labs, I believe practical learning is the fastest path to growth.
 
-- 📫 How to reach me **iqbaalilmiibusiness@gmail.com**
+---
 
-- ⚡ Fun fact **I'm a proud dog lover.**
+## 🚀 Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/iqbaalilmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbaalilmii" height="30" width="40" /></a>
-<a href="https://medium.com/@iqbaal.ilmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iqbaal.ilmii" height="30" width="40" /></a>
-</p>
+* 🔍 Digital Forensics
+* 🏴 Capture The Flag (CTF)
+* 🧠 Problem Solving
+* ⚡ Fast Learning
+* 🤝 Teamwork
+* 📚 Research & Self-Learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbaalilmii&show_icons=true&locale=en" alt="iqbaalilmii" /></p>
+## 💻 Programming Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaalilmii&" alt="iqbaalilmii" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+---
+
+## 🛠️ Technologies & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-2C2C2C?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+* 🔬 Memory Forensics with Volatility
+* 🏴 Capture The Flag Competitions
+* 🐧 Linux Systems
+* 🔐 Cybersecurity Fundamentals
+* 🌐 Networking
+
+---
+
+## 🌍 Languages
+
+* 🇮🇩 **Indonesian** – Native
+* 🇬🇧 **English** – Intermediate
+* 🇩🇪 **German** – Learning
+
+---
+
+## 🔗 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:iqbaalilmiibusiness@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/iqbaalilmii)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@iqbaal.ilmii)
+
+📫 *Feel free to explore my repositories, read my articles, or connect with me. I'm always excited to learn, build, and grow.*
