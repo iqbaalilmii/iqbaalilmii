@@ -32,7 +32,6 @@
 ---
 
 ## 🛠️ Technologies & Tools
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -40,6 +39,12 @@
 ![Volatility](https://img.shields.io/badge/Volatility-2C2C2C?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-ED1C24?style=for-the-badge&logo=ghidra&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-2C2C2C?style=for-the-badge)
 
 ---
 
@@ -66,5 +71,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:iqbaalilmiibusiness@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/iqbaalilmii)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@iqbaal.ilmii)
-
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/4Better)
 *Feel free to explore my repositories, read my articles, or connect with me. I'm always excited to learn, build, and grow.*
