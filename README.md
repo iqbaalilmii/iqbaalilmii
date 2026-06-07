@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Iqbal Ilmi
+# 👋 Hi there! I'm Iqbal Ilmi
 
 🎓 I'm a **Computer and Network Engineering (TKJ)** student from **SMK Telkom Malang** with a strong interest in the world of technology and cybersecurity.
 
