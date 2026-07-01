@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Iqbal Ilmi
 
-🎓 I'm a **Computer and Network Engineering (TKJ)** student from **SMK Telkom Malang** with a strong interest in the world of technology and cybersecurity.
+🎓 I'm a **Computer and Network Engineering (TKJ)** student from **Indonesia** with a strong interest in the world of technology and cybersecurity.
 
 💻 I'm passionate about **Cybersecurity**, especially **Digital Forensics**, **Memory Forensics**, and **Capture The Flag (CTF)** challenges. I enjoy understanding how systems work, investigating digital evidence, and solving technical problems.
 
