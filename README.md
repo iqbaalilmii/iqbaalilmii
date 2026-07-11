@@ -71,6 +71,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:iqbal_ilmi_34tkj@student.smktelkom-mlg.sch.id)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/iqbaalilmii)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@iqbaal.ilmii)
+[![HackMD](https://img.shields.io/badge/HackMD-323232?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@iqbaalilmii)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/4Better)
 [![Chess.com](https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chess.com&logoColor=white)](https://chess.com/profile/4Better)
 
