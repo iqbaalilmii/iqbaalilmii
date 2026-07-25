@@ -16,8 +16,6 @@
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=iqbaalilmii&color=blueviolet&style=flat)
-
 ---
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
