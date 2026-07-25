@@ -16,7 +16,7 @@
     </a>
 </p>
 
-![](https://visitcount.itsvg.in/api?id=iqbaalilmii&icon=2&color=0)
+![](https://komarev.com/ghpvc/?username=iqbaalilmii&color=blueviolet&style=flat)
 
 ---
 
