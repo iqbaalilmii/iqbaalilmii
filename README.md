@@ -77,12 +77,6 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/3Ns7vXMfODmS45kg2s/giphy.gif" width="50"> GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=iqbaalilmii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 # <img src="https://media.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif" width="50"> Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
