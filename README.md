@@ -62,7 +62,6 @@
 - 🌐 Network Security
 - 🔍 Malware Analysis
 - 🛡️ Memory Forensics
-- 💥 Binary Exploitation (Pwn)
 
 ---
 
