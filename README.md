@@ -61,7 +61,7 @@
 - 🐧 Linux Internals
 - 🌐 Network Security
 - 🔍 Malware Analysis
-- 🛡️ Active Directory Security
+- 🛡️ Memory Forensics
 - 💥 Binary Exploitation (Pwn)
 
 ---
